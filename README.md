@@ -7,7 +7,7 @@ An internship project — a full-stack AI chatbot built with Next.js 14, TypeScr
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **AI**: (to be integrated in Week 2)
+- **AI**: 
 
 ## Getting Started
 
