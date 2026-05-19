@@ -42,10 +42,10 @@ ai-chatbot/
 
 ## Week Progress
 
-- [x] Week 1 — Project setup, homepage, folder structure
-- [ ] Week 2 — Chat window, input, send button
-- [ ] Week 3 — AI integration
-- [ ] Week 4 — Polish & deployment
+- [x] day 1 — Project setup, homepage, folder structure
+- [ ] day 2 — Chat window, input, send button
+- [ ] day 3 — AI integration
+- [ ] day 4 — Polish and deployment
 
 ## Developer
 
