@@ -1,4 +1,4 @@
-# AI Chatbot 🤖
+# AI Chatbot 
 
 An internship project — a full-stack AI chatbot built with Next.js 14, TypeScript, and Tailwind CSS.
 
